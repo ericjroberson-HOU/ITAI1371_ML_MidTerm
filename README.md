@@ -1,0 +1,3 @@
+# ITAI1371_ML_MidTerm
+MidTerm_ReflectionJournal_FA26_ML_6171_16347 4_ITAI1371.PDF
+MidTerm_Contribution_Journal_FA26_ML_6171_16347 4_ITAI1371.PDF
